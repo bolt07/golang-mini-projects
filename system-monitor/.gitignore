@@ -1,0 +1,6 @@
+# .gitignore
+#.exe
+#.test
+#.log
+.DS_Store
+bin/
